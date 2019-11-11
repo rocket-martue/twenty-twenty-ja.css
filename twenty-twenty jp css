@@ -1,0 +1,22 @@
+h1.entry-title {
+	text-align: left;
+	font-size: 2.4rem;
+}
+@media (min-width: 700px) {
+	h1.entry-title {
+		font-size: 3.4rem;
+	}
+}
+@media (min-width: 1220px) {
+	h1.entry-title {
+		font-size: 4rem;
+	}
+}
+.widget .widget-title {
+	font-size: 2rem;
+}
+@media (min-width: 700px) {
+	.widget .widget-title {
+		font-size: 2.4rem;
+	}
+}
