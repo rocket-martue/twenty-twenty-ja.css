@@ -1,61 +1,61 @@
-h1.entry-title,
-h2.entry-title {
+html[lang="ja"] h1.entry-title,
+html[lang="ja"] h2.entry-title {
 	text-align: left;
 	font-size: 2.4rem;
 }
 @media (min-width: 700px) {
-	h1.entry-title,
-	h2.entry-title {
+	html[lang="ja"] h1.entry-title,
+	html[lang="ja"] h2.entry-title {
 		font-size: 3.4rem;
 	}
 }
 @media (min-width: 1220px) {
-	h1.entry-title,
-	h2.entry-title {
+	html[lang="ja"] h1.entry-title,
+	html[lang="ja"] h2.entry-title {
 		font-size: 4rem;
 	}
 }
-.widget .widget-title {
+html[lang="ja"] .widget .widget-title {
 	font-size: 2rem;
 }
 @media (min-width: 700px) {
-	.widget .widget-title {
+	html[lang="ja"] .widget .widget-title {
 		font-size: 2.4rem;
 	}
 }
 
-h1,.heading-size-1 {
+html[lang="ja"] h1,.heading-size-1 {
     font-size: 3.052rem;
 }
-h2,.heading-size-2 {
+html[lang="ja"] h2,.heading-size-2 {
     font-size: 2.441rem
 }
-h3,.heading-size-3 {
+html[lang="ja"] h3,.heading-size-3 {
     font-size: 1.953rem
 }
-h4,.heading-size-4 {
+html[lang="ja"] h4,.heading-size-4 {
     font-size: 1.563rem
 }
-h5,.heading-size-5 {
+html[lang="ja"] h5,.heading-size-5 {
     font-size: 1.25rem
 }
-h6,.heading-size-6 {
+html[lang="ja"] h6,.heading-size-6 {
     font-size: 1rem;
 }
 @media (min-width: 700px) {
-    h1,.heading-size-1 {
+    html[lang="ja"] h1,.heading-size-1 {
         font-size: 4.209rem
     }
-    h2,.heading-size-2 {
+    html[lang="ja"] h2,.heading-size-2 {
         font-size: 3.157rem
     }
-    h3,.heading-size-3 {
+    html[lang="ja"] h3,.heading-size-3 {
         font-size: 2.369rem
     }
-    h4,.heading-size-4 {
+    html[lang="ja"] h4,.heading-size-4 {
         font-size: 1.777rem
     }
-    h5,.heading-size-5 {
+    html[lang="ja"] h5,.heading-size-5 {
         font-size: 1.333rem
     }
 }
